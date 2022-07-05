@@ -1,0 +1,15 @@
+o GIT é um Sistema de Controle de Versões Distribuído
+
+Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código,
+armazenando essas informações e permitindo que,
+caso seja necessário, 
+um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+
+
+
+O GitHub é uma espécie de rede social voltada a profissionais de TI cuja tecnologia que o sustenta é o GIT.
+
+GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, 
+colaborar com softwares open source, 
+seguir outros(as) programadores(as) e interagir com códigos de terceiros.
